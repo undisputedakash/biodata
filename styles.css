@@ -1,0 +1,100 @@
+*{
+    font-family: 'Ubuntu', sans-serif;
+}
+body{
+    background-color: azure;
+    margin: 0;
+    padding: 40px;
+    border: solid 50px burlywood;
+    
+}
+.top-container{
+     display: flex;
+     margin-top: 1px;
+     margin-bottom: 50px;
+}
+.topleft{
+    margin-right: 30px;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+.topmid{
+    width: 300px;
+    margin-top: 32px;
+    height: 100px;
+    display: inline-block;
+    text-align: left;
+}
+.topmid p{
+    color: aqua;
+}
+.topright{
+    margin-top: 20px;
+    width: 80px;
+    height: 30px;
+    display: inline-block;
+    margin-left: -260px;
+    margin-top: 118px;
+}
+.topmid ul{
+    list-style-type: none;
+}
+.topmid a{
+    color: black;
+    text-decoration: none;
+}
+img{
+    border: solid black 5px;
+    border-radius: 100%;
+}
+i{
+    font-size: 25px;
+    color: black;
+}
+a{
+    margin-bottom: 2px;
+}
+
+/* Main Section */
+.ed_span{
+    font-weight: bold;
+}
+.education hr{
+    border: dotted 10px 3px 0px;
+    width: 50%;
+}
+.stars{
+    text-align: right;
+}
+.skills .languages
+{
+    padding: 10px;
+}
+#sklang ul{
+    font-weight: bold;
+}
+.sklang1{
+    display: inline-block;
+    margin-left: 1%;
+    margin-right: 560px;
+}
+.sklang2{
+    display: inline-block;
+}
+td{
+    width: 200px;
+}
+.skills td{
+    font-weight: bold;
+}
+.prow{
+    padding: 10px;
+}
+.hobbies td{
+    width: 300px;
+}
+.quickLinks{
+    margin: auto;
+    text-align: center;
+}
